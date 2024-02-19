@@ -4,3 +4,7 @@
 
 echo " Save Information Script " > Automatizacion.txt
 
+# Verificar IP
+
+ipconfig | findstr "IPv4" > temp
+
