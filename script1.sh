@@ -8,3 +8,7 @@ echo " Save Information Script " > Automatizacion.txt
 
 ipconfig | findstr "IPv4" > temp
 
+# Verificar hostname
+
+echo "Nombre del equipo" 
+hostname 
