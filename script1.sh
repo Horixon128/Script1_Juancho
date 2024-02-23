@@ -23,3 +23,7 @@ date > fecha
 echo "Mostrar directorios"
 dir > Directorios_del_Sistema
 
+# Mostrar version del sistema
+
+echo "Mostrar Version del Sistema"
+TREE C:\ > Version_Del_Sistema
