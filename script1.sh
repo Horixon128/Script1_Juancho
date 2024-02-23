@@ -23,7 +23,9 @@ date > fecha
 echo "Mostrar directorios"
 dir > Directorios_del_Sistema
 
-# Mostrar version del sistema
+# Creación de direcctorios
+echo "Creación de direcctorio"
+mkdir > Opción
 
-echo "Mostrar Version del Sistema"
-TREE C:\ > Version_Del_Sistema
+# gato espacial 
+curl ascii.live/nyan
