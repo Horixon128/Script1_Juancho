@@ -17,3 +17,9 @@ hostname
 
 echo "Mostrar Fecha Actual" 
 date > fecha
+
+# Mostrar directorios que se encuentran en nuestra maquina 
+
+echo "Mostrar directorios"
+dir > Directorios_del_Sistema
+
