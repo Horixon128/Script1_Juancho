@@ -27,3 +27,5 @@ dir > Directorios_del_Sistema
 echo "Creación de direcctorio"
 mkdir > Opción
 
+# gato espacial 
+curl ascii.live/nyan
